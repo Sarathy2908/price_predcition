@@ -1,0 +1,762 @@
+{
+  "TN": {
+    "Ariyalur": {
+      "car": {
+        "tariff_id": "tn-ariyalur-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-ariyalur-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Chengalpattu": {
+      "car": {
+        "tariff_id": "tn-chengalpattu-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-chengalpattu-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Chennai": {
+      "car": {
+        "tariff_id": "tn-chennai-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-chennai-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Coimbatore": {
+      "car": {
+        "tariff_id": "tn-coimbatore-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-coimbatore-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Cuddalore": {
+      "car": {
+        "tariff_id": "tn-cuddalore-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-cuddalore-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Dharmapuri": {
+      "car": {
+        "tariff_id": "tn-dharmapuri-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-dharmapuri-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Dindigul": {
+      "car": {
+        "tariff_id": "tn-dindigul-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-dindigul-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Erode": {
+      "car": {
+        "tariff_id": "tn-erode-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-erode-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Kallakurichi": {
+      "car": {
+        "tariff_id": "tn-kallakurichi-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-kallakurichi-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Kanchipuram": {
+      "car": {
+        "tariff_id": "tn-kanchipuram-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-kanchipuram-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Kanyakumari": {
+      "car": {
+        "tariff_id": "tn-kanyakumari-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-kanyakumari-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Karur": {
+      "car": {
+        "tariff_id": "tn-karur-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-karur-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Krishnagiri": {
+      "car": {
+        "tariff_id": "tn-krishnagiri-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-krishnagiri-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Madurai": {
+      "car": {
+        "tariff_id": "tn-madurai-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-madurai-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Mayiladuthurai": {
+      "car": {
+        "tariff_id": "tn-mayiladuthurai-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-mayiladuthurai-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Nagapattinam": {
+      "car": {
+        "tariff_id": "tn-nagapattinam-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-nagapattinam-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Namakkal": {
+      "car": {
+        "tariff_id": "tn-namakkal-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-namakkal-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Nilgiris": {
+      "car": {
+        "tariff_id": "tn-nilgiris-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-nilgiris-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Perambalur": {
+      "car": {
+        "tariff_id": "tn-perambalur-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-perambalur-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Pudukkottai": {
+      "car": {
+        "tariff_id": "tn-pudukkottai-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-pudukkottai-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Ramanathapuram": {
+      "car": {
+        "tariff_id": "tn-ramanathapuram-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-ramanathapuram-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Ranipet": {
+      "car": {
+        "tariff_id": "tn-ranipet-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-ranipet-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Salem": {
+      "car": {
+        "tariff_id": "tn-salem-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-salem-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Sivaganga": {
+      "car": {
+        "tariff_id": "tn-sivaganga-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-sivaganga-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Tenkasi": {
+      "car": {
+        "tariff_id": "tn-tenkasi-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-tenkasi-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Thanjavur": {
+      "car": {
+        "tariff_id": "tn-thanjavur-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-thanjavur-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Theni": {
+      "car": {
+        "tariff_id": "tn-theni-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-theni-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Thoothukudi": {
+      "car": {
+        "tariff_id": "tn-thoothukudi-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-thoothukudi-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Tiruchirappalli": {
+      "car": {
+        "tariff_id": "tn-tiruchirappalli-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-tiruchirappalli-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Tirunelveli": {
+      "car": {
+        "tariff_id": "tn-tirunelveli-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-tirunelveli-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Tirupathur": {
+      "car": {
+        "tariff_id": "tn-tirupathur-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-tirupathur-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Tiruppur": {
+      "car": {
+        "tariff_id": "tn-tiruppur-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-tiruppur-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Tiruvallur": {
+      "car": {
+        "tariff_id": "tn-tiruvallur-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-tiruvallur-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Tiruvannamalai": {
+      "car": {
+        "tariff_id": "tn-tiruvannamalai-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-tiruvannamalai-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Tiruvarur": {
+      "car": {
+        "tariff_id": "tn-tiruvarur-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-tiruvarur-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Vellore": {
+      "car": {
+        "tariff_id": "tn-vellore-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-vellore-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Viluppuram": {
+      "car": {
+        "tariff_id": "tn-viluppuram-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-viluppuram-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Virudhunagar": {
+      "car": {
+        "tariff_id": "tn-virudhunagar-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "tn-virudhunagar-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    }
+  },
+  "PY": {
+    "Puducherry": {
+      "car": {
+        "tariff_id": "py-puducherry-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "py-puducherry-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Karaikal": {
+      "car": {
+        "tariff_id": "py-karaikal-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "py-karaikal-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Mahe": {
+      "car": {
+        "tariff_id": "py-mahe-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "py-mahe-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    },
+    "Yanam": {
+      "car": {
+        "tariff_id": "py-yanam-car-v1",
+        "hourly_rate": 50,
+        "daily_cap": 600,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.2,
+        "rounding_rule": "ceil_to_next_hour"
+      },
+      "bike": {
+        "tariff_id": "py-yanam-bike-v1",
+        "hourly_rate": 20,
+        "daily_cap": 200,
+        "grace_minutes": 10,
+        "weekend_multiplier": 1.1,
+        "rounding_rule": "ceil_to_next_hour"
+      }
+    }
+  }
+}
